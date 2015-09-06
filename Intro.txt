@@ -1,0 +1,15 @@
+Toontown is in need of serious expansion. But due to the finicky nature of Astron,
+the DClasses, Uberdog, AI, etc., we just couldn't do it! But then Master Loopy had
+a revolutionary idea that would change Toontown forever. It was time to cut the
+crap and get busy in completely remastering Toontown. It was time to redo Toontown
+at its core level. It was time for Toontown to take flight. IT WAS TIME!!!
+
+Land of the Toons is different from other Toontown servers because it will do a lot
+of things (if not everything) differently from anyone in the past. Master Loopy
+feels that it is necessary to recreate nearly all aspects of Toontown's code from
+the ground up and phase out things like DClasses and Astron. He also feels it is
+necessary to split the TTLocalizer into several files for simplicity reasons.
+
+"My views are the people's views, so I'm only happy if they're happy. When something
+breaks and they're sad, then I'm sad until I fix the problem."
+-Master Loopy Bananamuffin
