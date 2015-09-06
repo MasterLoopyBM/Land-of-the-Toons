@@ -1,0 +1,1 @@
+#Multi-Purpose SOS cards will be defined here instead of in NewNPCs.py
