@@ -12,7 +12,8 @@ NewNPCs = {1001: 'Flippy',
 		   
 NPC_ID = 0
 TRACK = 1
-EFFECT = 2
-RARITY = 3
+LEVEL = 2
+EFFECT = 3
+RARITY = 4
 
-SellbotBossNPCs = {1001: (TOONUP, 150, 5)}
+SellbotBossNPCs = {1001: (TOONUP, 6, 150, 5)}
